@@ -1,0 +1,19 @@
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+img {
+    width: 200px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+.fl {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
